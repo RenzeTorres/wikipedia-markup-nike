@@ -1,0 +1,36 @@
+
+
+h1 {
+    padding: 8px;
+    background-color: crimson;
+    border-bottom: 2px solid black;
+}
+
+.unordered-list {
+    font-size: 40px;
+}
+
+#heading {
+    text-align: justify;
+    font-size: 50px;
+}
+
+body {
+    margin: 50px 20px 100px 150px;
+    text-align: justify;
+    font-size: 20px;
+}
+
+
+
+[type="text"] {
+
+}
+
+[type="button"] {
+    
+}
+
+html {
+    background-color: dimgrey;
+}
